@@ -1,0 +1,14 @@
+/* XKCD Shortcode Styles
+-------------------------------------------------------------- */
+.xkcd-embed img {
+    max-width: 100%;
+}
+
+
+/* XKCD Shortcode Title Styles
+-------------------------------------------------------------- */
+.xkcd-embed-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+}
